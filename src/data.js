@@ -8,8 +8,8 @@ export const placeInfo=[
         example1:'https://clincoln.tech/',
         example2:'https://g3cars.clincoln.tech/',
         example3:'This portfolio was builded with React ',
-        lexample1:'https://www.organizacionx.com',
-        lexample2:'https://www.rosystems.toltechconsulting.com'
+        lexample1:'https://clincoln.tech/',
+        lexample2:'https://g3cars.clincoln.tech/'
     },
     {
         id:2,
@@ -18,7 +18,7 @@ export const placeInfo=[
         description:'Large systems built using different components with Spring Boot , sql, json, ajax, java, Node, Some of the backend repositories built using Node REST are private for security reasons',
         works:'Projects',
         example1:'https://github.com/nefigarcia',
-        lexample1:'https://www.toltechconsulting.com'
+        lexample1:'https://github.com/nefigarcia'
 
     },
     {
