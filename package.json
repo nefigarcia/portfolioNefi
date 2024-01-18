@@ -1,0 +1,41 @@
+{
+  "name": "portfolionefi",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://portfolionefi.clincoln.tech",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "domready": "^1.0.8",
+    "react": "^16.11.0",
+    "react-delay": "^0.1.0",
+    "react-delay-link": "^1.1.4",
+    "react-dom": "^16.11.0",
+    "react-gsap": "^3.2.1",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^5.0.1",
+    "uifx": "^2.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
