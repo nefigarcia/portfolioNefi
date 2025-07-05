@@ -24,11 +24,13 @@ export const placeInfo=[
     {
         id:3,
         headerTitle:'Data',
-        headerSubtitle:'HP AML, SQL,Access, Excel, MongoDB',
-        description:'Experience with Data migration to Big data using HP ALM tool. Data analyst, macros design visul basic, accees',
+        headerSubtitle:'HP AML, SQL,Access, Excel, tableau, Kafka, Airflow, Python, Java, Tableau, SSIS, GCP(Bigquery), Snowflake, Spark, AWS(S3), AI tools Copilot, Gemini Firebase',
+        description:'ETL Development | Automated Data Pipelines | Data Visualization | Scalable Code Solutions',
         works:'Projects',
-        example1:'ask me to show you some examples'
-    }
+        example1:'(Click) Jobs Analysis, pipeline automatation for ETL process',
+        lexample1:'https://datapipelinejobs.rosystems.net/',
+        example2:'(Click) Github repository',
+        lexample2:'https://github.com/nefigarcia/outsourcing-analysis'}
 ];
 export const detailInfo=
 {
