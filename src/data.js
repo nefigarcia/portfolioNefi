@@ -25,7 +25,7 @@ export const placeInfo=[
         id:3,
         headerTitle:'Data',
         headerSubtitle:'AI Agents, AI tools, HP AML, SQL,Access, Excel, tableau, Kafka, Airflow, Python, Java, Tableau, SSIS, GCP(Bigquery), Snowflake, Spark, AWS(S3), AI tools Copilot, Gemini Firebase',
-        description:'ETL Development | Automated Data Pipelines | Data Visualization | Scalable Code Solutions',
+        description:'ETL Development | Automated Data Pipelines | Data Visualization | Scalable Code Solutions | AI Agents and AI tools for data analysis and insights | Cloud Data Solutions (GCP, AWS) | Data Cleaning and Transformation | SQL and NoSQL Databases | Machine Learning Integration | Real-time Data Processing with Kafka and Spark | Data Warehousing with Snowflake and BigQuery | Business Intelligence with Tableau and Power BI',
         works:'Projects',
         example1:'(Click) Jobs Analysis, pipeline automatation for ETL process',
         lexample1:'https://datapipelinejobs.rosystems.net/',

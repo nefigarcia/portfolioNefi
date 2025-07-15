@@ -51,7 +51,7 @@ class Details extends Component{
             title,
             maps,
             description,
-            works,example1,example2,example3, lexample1,lexample2
+            works,example1,example2,example3, lexample1,lexample2,lexample3,example4,lexample4
           }=data.detailInfo;
           return(
         <div id='container2' style={{color:'#717171'}}>{headerSubtitle}
@@ -61,9 +61,11 @@ class Details extends Component{
         <h3>{works}</h3>
           <a href={lexample1} target="_blank">{example1}</a>
           <br></br>
-        <a href={lexample2} target="_blank">{example2}</a>
-        <br></br>
-          <a href='#'>{example3}</a>
+          <a href={lexample2} target="_blank">{example2}</a>
+          <br></br>
+          <a href={lexample3} target="_blank">{example3}</a>
+          <br></br>
+          <a href={lexample4} target="_blank">{example4}</a>
         </div>
         </div>
           );
