@@ -14,10 +14,10 @@ export const placeInfo=[
         id:2,
         headerTitle:'Backend',
         headerSubtitle:'SQL, Spring Boot framework, Data migration, Node, Heroku',
-        description:'Large systems built using different components with Spring Boot , sql, json, ajax, java, Node, Some of the backend repositories built using Node REST are private for security reasons',
+        description:'Large systems Architecture design | Spring Boot , sql, json, ajax, java, Node, Python | Experience with large robust enterprise applications',
         works:'Projects',
-        example1:'https://github.com/nefigarcia',
-        lexample1:'https://github.com/nefigarcia'
+        example1:'API builded with Python to analyze survey data with AI',
+        lexample1:'https://github.com/nefigarcia/feedbackAI.git'
 
     },
     {
